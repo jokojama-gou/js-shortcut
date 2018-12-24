@@ -13,3 +13,8 @@ if ("undefined" != m) {  // Check it isn't empty or unknow
 
 document.write("<br>");  
 }
+
+
+  
+//Thank you for read. 
+//By Yokoyama-Go(https://github.com/Yokoyama-Go/profile-Yokoyama_Go)
