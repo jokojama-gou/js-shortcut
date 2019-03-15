@@ -1,6 +1,6 @@
 /*
 You can shortcut "console.log ('');" to "c ('');".
-If you write  "import defaultExport from "https://github.com/Yokoyama-Go/js-shortcut/blob/master/console_log.js";" , you can get this.
+If you write  "import defaultExport from "https://github.com/Og-Amayokoy/js-shortcut/blob/master/console_log.js";" , you can get this.
 */
 
 function c(m) {
