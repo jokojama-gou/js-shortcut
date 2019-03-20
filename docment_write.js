@@ -17,4 +17,4 @@ document.write("<br>");
 
   
 //Thank you for read. 
-//By Yokoyama-Go(https://github.com/Yokoyama-Go/profile-Yokoyama_Go)
+//By Og-Amayokoy(https://og-amayokoy.github.io/profile-Og_Amayokoy/)
