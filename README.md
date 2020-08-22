@@ -10,7 +10,7 @@ import defaultExport from "url of file";
 //Please write link where "url of file"
 ```
 
-and, make program online. If you can't make program online, can downloard.
+and, make program online. If you can't make program online,you can downloard.
 
 Lience is MIT.
 
